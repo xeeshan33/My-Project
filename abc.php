@@ -11,11 +11,11 @@
 <!-- arsal  -->
 
 
-<h1> wellcome</h1>
+<h1> welcome</h1>
 <p> This a new page abc </p>
         <h1> A new line add php </h1>
         <p>This  is my computer!</p>
-
+        <h2> this a main page  </h2>
 </body>
 </html>
 
